@@ -12,7 +12,7 @@ This is a simple Book API built with Node.js. Follow the instructions below to s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-api.git
+git clone https://github.com/Krishp173/Book-APi
 
 cd book-api
 ```
