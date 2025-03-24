@@ -1,5 +1,3 @@
-
-# Create the README.md content
 # 📚 Book API
 
 This is a simple Book API built with Node.js. Follow the instructions below to set up the project on your local machine.
